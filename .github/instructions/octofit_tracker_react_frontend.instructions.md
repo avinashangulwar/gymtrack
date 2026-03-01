@@ -15,7 +15,7 @@ npm install bootstrap --prefix octofit-tracker/frontend
 # Add the Bootstrap CSS import at the very top of src/index.js:
 sed -i "1iimport 'bootstrap/dist/css/bootstrap.min.css';" octofit-tracker/frontend/src/index.js
 
-npm install react-router-dom --prefix octofit-tracker/frontend
+npm install react-router-dom --prefix octofit-tracker/f
 
 ```
 
